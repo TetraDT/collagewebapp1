@@ -1,0 +1,7 @@
+#savbtn{
+    width: 100px;
+}
+#result1, #result2, #result3{
+width: 30%;
+border: 2px dashed black;
+}
